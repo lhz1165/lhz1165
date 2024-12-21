@@ -2,6 +2,7 @@
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
+- 博客主页 https://lhz1165.github.io/
 - 📫 How to reach me laihongzzz@gmail.com
 
 <!---
